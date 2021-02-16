@@ -471,6 +471,9 @@ html,body{
 	 }
  }
 @media only screen and (max-width: 768px) {
+	.grid figure {
+	  margin-top: 35px;
+	}
   	.gradient-text{
   		font-size: 30px;
   	}
